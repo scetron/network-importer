@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "network-importer"
-version = "3.0.3"
+version = "3.0.4"
 description = "Network Importer tool to import an existing network into a Database / Source Of Truth"
 authors = ["Network to Code, LLC <opensource@networktocode.com>"]
 homepage = "https://github.com/networktocode/network-importer"
@@ -26,7 +26,7 @@ termcolor = "^1.1"
 click = "^7.1 || ^8.0"
 pydantic = "^1.6"
 genie = "~21.4.0"
-pyats = "~21.4.0"
+pyats = "~22.3.0"
 netmiko = "^3.3"
 ntc-templates = "^2.0"
 structlog = "^20.1.0"
